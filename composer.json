@@ -1,0 +1,26 @@
+{
+    "name": "netmarket/paypal",
+    "description": "This is rest based Paypal Integtation api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdur Rahman",
+            "email": "abdur.rahman@netmarket.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Netmarket\\Paypal\\": "src/"
+        }
+    },
+    "require": {
+        "paypal/paypal-checkout-sdk": "1.0.1",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-xml": "*",
+        "laravel/ui": "^3.0",
+        "curl/curl": "^2.3"
+    }
+}
