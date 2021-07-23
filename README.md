@@ -22,7 +22,7 @@ This package is a gateway to the PayPal Payment API( REST-API), in order to use 
  - "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/arrahman17/paypal-package"
+            "url": "https://github.com/arrahman17/Laravel-Paypal-Package"
         }
     ],
 
