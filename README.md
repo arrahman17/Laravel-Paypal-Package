@@ -16,7 +16,7 @@ This package is a gateway to the PayPal Payment API( REST-API), in order to use 
 
 **add this to composer** 
  
- - in require =>  "Netmarket/Paypal": "^1.0.1" 
+ - in require =>  "Netmarket/Paypal": "^1.0.0" 
  - then add this below require
  - "repositories": [
         {
