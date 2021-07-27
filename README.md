@@ -3,9 +3,8 @@
 
 This package is a gateway to the PayPal Payment API( REST-API), in order to use this package from the github repo.
 
-**Framework => Laravel 8 with PHP 7.3**
+**Framework => Laravel 8**
 
-- I hope Laravel 7 could also be compatible 
 
 # There are some steps to follow:
 
